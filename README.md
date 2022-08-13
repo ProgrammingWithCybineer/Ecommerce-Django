@@ -1,5 +1,5 @@
 # Ecommerce-Django
-This is an Ecommerce Website built using Django
+Ecommerce Website built using Django
 
 ### Technologies Used
   •	Python
